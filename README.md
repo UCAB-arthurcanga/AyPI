@@ -70,7 +70,7 @@ Realicen todo, muy buenos ejercicios que suelen salir en parciales. Usen este co
 
 Empiecen a partir de este momento.
 
-## Laboratorio 5
+### Laboratorio 5
 
 Este laboratorio suele ser horrible. Incluye un ejercicio de modo gráfico (al final del archivo incluyo un breve comentario del modo gráfico), un ejercicio mal redactado y uno en que el número se repite. Por mi parte no envié dos ejercicios.
 
@@ -81,7 +81,7 @@ Este laboratorio suele ser horrible. Incluye un ejercicio de modo gráfico (al f
 
 Importante que entiendan bien el concepto de función y parámetro, lo usarán el resto de su carrera
 
-## Laboratorio 6
+### Laboratorio 6
 
 Muy importante este laboratorio ya que incluye ejercicios clave y se manda a muy poco tiempo del próximo parcial; aparte ayuda bastante al entender las operaciones de cadena.
 
